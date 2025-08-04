@@ -1,0 +1,23 @@
+include /usr/share/nano/*.nanorc
+include /usr/share/nano-syntax-highlighting/*.nanorc
+
+set softwrap
+set atblanks
+set autoindent
+set trimblanks
+set tabsize 4
+set tabstospaces
+set cutfromcursor
+set zap
+set smarthome
+set nonewlines
+set minibar
+set indicator
+set linenumbers
+set positionlog
+set constantshow
+set stateflags
+set mouse
+set backup
+set historylog
+set multibuffer
