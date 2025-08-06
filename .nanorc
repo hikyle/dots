@@ -18,6 +18,5 @@ set positionlog
 set constantshow
 set stateflags
 set mouse
-set backup
 set historylog
 set multibuffer
