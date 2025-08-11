@@ -17,7 +17,9 @@ alias cleanup='sudo pacman -Rns $(pacman -Qdtq)'
 alias cat='bat'
 alias nano='micro'
 alias updatemirrors='sudo reflector --sort rate --country US --latest 10 --protocol https --save /etc/pacman.d/mirrorlist'
-	
+alias m='micro'
+alias n='micro'
+
 if [[ $(tty) == *"pts"* ]]; then
 	fastfetch
 fi
