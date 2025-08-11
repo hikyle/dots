@@ -15,7 +15,7 @@ window#waybar.empty #window {
 }
 
 #workspaces label {
-	font-size: 13px;
+	font-size: 15px;
 }
 
 #workspaces button.active label {
